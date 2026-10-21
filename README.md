@@ -187,9 +187,4 @@ Document only the tests you have actually performed.
 
 This project is intended for educational and machine learning demonstration purposes. Predictions should not be treated as official insurance quotations or used as the sole basis for financial or healthcare decisions.
 
-## Author
 
-**Harshit Jaiswal**
-
-- GitHub: Add your GitHub profile URL
-- LinkedIn: Add your LinkedIn profile URL
